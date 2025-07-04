@@ -12,3 +12,10 @@ COMMIT -> git commit -m "Message"
 
 PUSH Command to Main Git Repo
 PUSH -> git push origin main
+
+Init Command
+git init ->make the local repo as a git repo
+git remote  add origin <link> -> to set the remote repo in GitHub 
+git remote -v -> to verify repo
+git branch -> check for branches
+git branch -M main -> to rename the branc
